@@ -17,3 +17,18 @@ Future financial goals
 💍 Wedding expenses
 🎓 Education
 Other major goals
+
+The system then analyses these commitments and determines how much money is actually available for future planning.
+
+It can simulate when the household should save, when borrowing may be necessary, and whether different goals are competing for the same available money.
+
+⁉️ What problem does it solve?
+Many families plan their finances manually.
+
+For example:
+  Monthly salary = ₹60,000
+  EMI = ₹15,000
+  Insurance = ₹5,000
+  Household expenses = ₹25,000
+  House goal = ₹10 lakh
+  Education goal = ₹5 lakh
