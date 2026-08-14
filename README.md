@@ -32,3 +32,38 @@ For example:
   Household expenses = ₹25,000,
   House goal = ₹10 lakh,
   Education goal = ₹5 lakh
+
+The family might think: 
+
+
+“We need ₹15 lakh for our future goals, so let's start saving.”
+
+But the important question is:
+
+Can the family realistically save enough money within the required time?
+
+This is where The Finance Leader helps.
+
+Instead of looking at each expense independently, it considers the whole household financial situation.
+
+It identifies:
+
+   *Available/disposable income*
+
+   *Required savings*
+
+   *Financial pressure from multiple goals*
+
+   *Conflicts between goals*
+
+   *Possible borrowing requirements*
+
+   *Relevant government schemes*
+
+This makes the application a decision-support tool rather than just a calculator.
+
+✅️Main objective
+
+To provide a centralized system for household financial planning that helps users make better decisions about saving, borrowing, and achieving multiple financial goals.
+
+The project particularly focuses on the situation where multiple future goals compete for limited household income.
