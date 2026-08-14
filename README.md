@@ -46,7 +46,7 @@ This is where The Finance Leader helps.
 
 Instead of looking at each expense independently, it considers the whole household financial situation.
 
-It identifies:
+✅️ It identifies:
 
    *Available/disposable income*
 
@@ -62,7 +62,7 @@ It identifies:
 
 This makes the application a decision-support tool rather than just a calculator.
 
-✅️Main objective
+🎯 Main objective
 
 To provide a centralized system for household financial planning that helps users make better decisions about saving, borrowing, and achieving multiple financial goals.
 
